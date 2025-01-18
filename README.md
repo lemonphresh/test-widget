@@ -48,3 +48,6 @@ here is an example `index.html` you can use to test things out:
   </body>
 </html>
 ```
+
+and here is a screenshot of what i've got in my s3 bucket right now:
+<img width="1716" alt="Screenshot 2025-01-18 at 12 04 51 PM" src="https://github.com/user-attachments/assets/a63aa216-9b49-443a-9c47-59aed5340662" />
