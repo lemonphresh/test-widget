@@ -18,7 +18,7 @@ const widgetStyles = {
     marginBottom: "12px",
   },
   button: {
-    backgroundColor: "pink",
+    backgroundColor: "teal",
     color: "#fff",
     border: "none",
     padding: "10px 16px",
